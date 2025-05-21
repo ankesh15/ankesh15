@@ -1,58 +1,55 @@
-<h2 align="left">Hi 👋! My name is Ankesh Singh and I'm a Web Developer & Competitive Programmer from India 🇮🇳</h2>
+<h1 align="center"><span>Hi 👋, I'm Ankesh Singh</span></h1>
+<h3 align="center"><span>A passionate Web Developer and Competitive Programmer from India 🇮🇳</span></h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankesh15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankesh15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<span>🌱 I’m currently exploring</span> **Full-Stack Web Development** <span>and building real-world projects using the</span> **MERN Stack**  
+<span>💡 I regularly participate in</span> **coding contests** <span>on LeetCode, Codeforces, and CodeChef</span>  
+<span>📫 Reach me at</span> **singhankesh672@gmail.com**  
+<span>🔗 Connect on</span> [LinkedIn](https://www.linkedin.com/in/ankesh-singh-3b8b8728a/)
 
-###
+---
+<div>
+### 🛠️ <span>Tech Stack</span>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+#### <span>Languages</span>  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)  
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-###
+#### <span>Frontend</span>  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-</div>
+#### <span>Backend & Databases</span>  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-###
+#### <span>DevOps & Tools</span>  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+</div
+---
 
-<div align="left">
-  <a href="mailto:singhankesh672@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/ankesh-singh-3b8b8728a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+### 📈 <span>GitHub Stats</span>
 
-###
-
-<br clear="both" />
-
-<!-- 💡 Motivational Quote -->
-<h3 align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</h3>
-
-<!-- 👁️ Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankesh15&style=flat-square&color=blue" alt="GitHub Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankesh15&show_icons=true&theme=default" alt="Ankesh's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankesh15&layout=compact&theme=default" height="150" />
 </p>
 
-<!-- 🐍 Snake animation (optional, only works if GitHub action is configured) -->
-<img src="https://raw.githubusercontent.com/ankesh15/ankesh15/output/snake.svg" alt="Snake animation" />
+---
+
+### 🔗 <span>Connect with Me</span>
+
+<p>
+  <a href="mailto:singhankesh672@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ankesh-singh-3b8b8728a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
