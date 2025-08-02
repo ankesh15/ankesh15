@@ -9,8 +9,8 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🌱 Currently exploring **Full-Stack Web Development** using the **MERN Stack**
+- 🌱 Currently Contributing to GSSoc'2025.
+- 🌱 Learned **Full-Stack Web Development** using the **MERN Stack**
 - 💡 Actively participating in coding contests on **LeetCode**, **Codeforces**, and **CodeChef**
 - 📫 Reach me at: **singhankesh672@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ankesh-singh-3b8b8728a/)
